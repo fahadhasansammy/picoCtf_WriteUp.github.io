@@ -19,7 +19,7 @@ Open your browser **Developer Tools**, navigate to the **Application** (or Stora
 * Upon logging in, the server issues specific session cookies: `username`, `password`, and `admin`.
 * By default, the `admin` cookie is set to a boolean string value of `false`.
 
-<img width="800" alt="Cookies Application Tab" src="https://github.com/user-attachments/assets/cd8a2522-68b2-4cd8-b0af-7ef4f85aec75" />
+<img width="909" height="617" alt="image" src="https://github.com/user-attachments/assets/feb6b485-8c54-4d54-84d5-55bf4772ae8d" />
 
 ---
 
